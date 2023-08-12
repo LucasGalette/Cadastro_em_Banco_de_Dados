@@ -1,0 +1,26 @@
+C:\Programas\Pessoa\Pessoa\bin\Debug\DbPessoa.mdf
+C:\Programas\Pessoa\Pessoa\bin\Debug\DbPessoa_log.ldf
+C:\Programas\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Programas\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Programas\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.Form1.resources
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Programas\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\bin\Debug\DbPessoa.mdf
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\bin\Debug\DbPessoa_log.ldf
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.Form1.resources
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\user\OneDrive\Área de Trabalho\Pessoa\Pessoa\Pessoa\obj\Debug\Pessoa.pdb
